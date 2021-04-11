@@ -1,0 +1,9 @@
+{
+	"name": "movedatdata01",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aa7c5ff5-089f-429f-8adc-2adc51b1a215",
+		"tenantId": "d00470c1-2144-4ee6-88fe-6732519fc163"
+	}
+}
